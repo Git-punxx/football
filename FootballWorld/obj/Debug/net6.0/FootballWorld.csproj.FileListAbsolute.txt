@@ -1,0 +1,12 @@
+C:\Users\Βασίλης\Desktop\Stick\OtherStuff\C#\Projects\football\FootballWorld\bin\Debug\net6.0\FootballWorld.deps.json
+C:\Users\Βασίλης\Desktop\Stick\OtherStuff\C#\Projects\football\FootballWorld\bin\Debug\net6.0\FootballWorld.dll
+C:\Users\Βασίλης\Desktop\Stick\OtherStuff\C#\Projects\football\FootballWorld\bin\Debug\net6.0\FootballWorld.pdb
+C:\Users\Βασίλης\Desktop\Stick\OtherStuff\C#\Projects\football\FootballWorld\obj\Debug\net6.0\FootballWorld.csproj.AssemblyReference.cache
+C:\Users\Βασίλης\Desktop\Stick\OtherStuff\C#\Projects\football\FootballWorld\obj\Debug\net6.0\FootballWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Βασίλης\Desktop\Stick\OtherStuff\C#\Projects\football\FootballWorld\obj\Debug\net6.0\FootballWorld.AssemblyInfoInputs.cache
+C:\Users\Βασίλης\Desktop\Stick\OtherStuff\C#\Projects\football\FootballWorld\obj\Debug\net6.0\FootballWorld.AssemblyInfo.cs
+C:\Users\Βασίλης\Desktop\Stick\OtherStuff\C#\Projects\football\FootballWorld\obj\Debug\net6.0\FootballWorld.csproj.CoreCompileInputs.cache
+C:\Users\Βασίλης\Desktop\Stick\OtherStuff\C#\Projects\football\FootballWorld\obj\Debug\net6.0\FootballWorld.dll
+C:\Users\Βασίλης\Desktop\Stick\OtherStuff\C#\Projects\football\FootballWorld\obj\Debug\net6.0\refint\FootballWorld.dll
+C:\Users\Βασίλης\Desktop\Stick\OtherStuff\C#\Projects\football\FootballWorld\obj\Debug\net6.0\FootballWorld.pdb
+C:\Users\Βασίλης\Desktop\Stick\OtherStuff\C#\Projects\football\FootballWorld\obj\Debug\net6.0\ref\FootballWorld.dll
