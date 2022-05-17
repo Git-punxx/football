@@ -24,6 +24,20 @@
         "runtime": {
           "bin/placeholder/Infrastructure.dll": {}
         }
+      },
+      "Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "FootballWorld": "1.0.0",
+          "Infrastructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.dll": {}
+        }
       }
     }
   },
@@ -37,11 +51,17 @@
       "type": "project",
       "path": "../Infrastructure/Infrastructure.csproj",
       "msbuildProject": "../Infrastructure/Infrastructure.csproj"
+    },
+    "Services/1.0.0": {
+      "type": "project",
+      "path": "../Services/Services.csproj",
+      "msbuildProject": "../Services/Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Infrastructure >= 1.0.0"
+      "Infrastructure >= 1.0.0",
+      "Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -73,6 +93,9 @@
           "projectReferences": {
             "C:\\Users\\Βασίλης\\Desktop\\Stick\\OtherStuff\\C#\\Projects\\football\\Infrastructure\\Infrastructure.csproj": {
               "projectPath": "C:\\Users\\Βασίλης\\Desktop\\Stick\\OtherStuff\\C#\\Projects\\football\\Infrastructure\\Infrastructure.csproj"
+            },
+            "C:\\Users\\Βασίλης\\Desktop\\Stick\\OtherStuff\\C#\\Projects\\football\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\Βασίλης\\Desktop\\Stick\\OtherStuff\\C#\\Projects\\football\\Services\\Services.csproj"
             }
           }
         }

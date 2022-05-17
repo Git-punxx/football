@@ -8,3 +8,7 @@ public enum ProgressState {
 public class Fixture {
 
 }
+
+public struct GameResult {
+
+}

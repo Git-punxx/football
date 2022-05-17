@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "FootballWorld/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FootballWorld.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FootballWorld.dll": {}
+        }
+      },
+      "Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "FootballWorld": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infrastructure.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "FootballWorld/1.0.0": {
+      "type": "project",
+      "path": "../FootballWorld/FootballWorld.csproj",
+      "msbuildProject": "../FootballWorld/FootballWorld.csproj"
+    },
+    "Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Infrastructure/Infrastructure.csproj",
+      "msbuildProject": "../Infrastructure/Infrastructure.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "FootballWorld >= 1.0.0",
+      "Infrastructure >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Βασίλης\\.nuget\\packages\\": {}
@@ -33,7 +71,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Βασίλης\\Desktop\\Stick\\OtherStuff\\C#\\Projects\\football\\FootballWorld\\FootballWorld.csproj": {
+              "projectPath": "C:\\Users\\Βασίλης\\Desktop\\Stick\\OtherStuff\\C#\\Projects\\football\\FootballWorld\\FootballWorld.csproj"
+            },
+            "C:\\Users\\Βασίλης\\Desktop\\Stick\\OtherStuff\\C#\\Projects\\football\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Βασίλης\\Desktop\\Stick\\OtherStuff\\C#\\Projects\\football\\Infrastructure\\Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

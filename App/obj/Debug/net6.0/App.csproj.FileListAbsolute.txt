@@ -18,3 +18,5 @@ C:\Users\Βασίλης\Desktop\Stick\OtherStuff\C#\Projects\football\App\obj\De
 C:\Users\Βασίλης\Desktop\Stick\OtherStuff\C#\Projects\football\App\obj\Debug\net6.0\App.pdb
 C:\Users\Βασίλης\Desktop\Stick\OtherStuff\C#\Projects\football\App\obj\Debug\net6.0\App.genruntimeconfig.cache
 C:\Users\Βασίλης\Desktop\Stick\OtherStuff\C#\Projects\football\App\obj\Debug\net6.0\ref\App.dll
+C:\Users\Βασίλης\Desktop\Stick\OtherStuff\C#\Projects\football\App\bin\Debug\net6.0\Services.dll
+C:\Users\Βασίλης\Desktop\Stick\OtherStuff\C#\Projects\football\App\bin\Debug\net6.0\Services.pdb

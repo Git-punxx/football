@@ -1,3 +1,4 @@
-﻿using Infrastructure;
-var provider = new SRProvider();
-Console.WriteLine("Provider created");
+﻿using Services;
+
+var updater = new StatsService();
+updater.FetchLeagueStats(12);

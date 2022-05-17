@@ -9,8 +9,12 @@ public class SRProvider: IStatsProvider
         return new LeagueStats();
     }
 
-    public TeamStats FecthTeamStats(ID teamId) {
+    public TeamStats FetchTeamStats(ID teamId) {
         return new TeamStats();
+    }
+
+    public List<GameResult> FetchPreviousResults(ID teamId) {
+        return new List<GameResult>();
     }
 
     public List<Fixture> FetchPendingFixtures() {
